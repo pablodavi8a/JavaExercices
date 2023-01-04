@@ -10,7 +10,7 @@ public class Main {
 }
 
 class coche {
-    public int n_puertas; // Variabler para almacenar el numero de puertas
+    public int n_puertas; // Variable para almacenar el numero de puertas
 
     // Funcion para incrementar el numero de puertas
     public void inc_puertas(){
