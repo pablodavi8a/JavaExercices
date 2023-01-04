@@ -7,6 +7,13 @@ public class Main {
         System.out.println(myCoche.n_puertas);
 
     }
-    
-    
+}
+
+class coche {
+    public int n_puertas; // Variabler para almacenar el numero de puertas
+
+    // Funcion para incrementar el numero de puertas
+    public void inc_puertas(){
+        this.n_puertas++;
+    }
 }
